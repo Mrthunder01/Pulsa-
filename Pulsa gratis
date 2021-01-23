@@ -1,4 +1,5 @@
-#!/system/xbin/bash
+#!/usr/bin/python2
+#coding=utf-8
 #Bersihkan Layar
 clear
 blue='\e[1;34m'
